@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jiafa Ruan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "The harder you work, the luckier you get."
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://ttruan2426.github.io
+  email            : "qqshmily@mail.dlut.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
